@@ -18,6 +18,7 @@ namespace WHile
     /// <summary>
     /// Interaction logic for MainWindow.xaml
     /// </summary>
+   //for txt file set to content and copy always in the propertoes
     public partial class MainWindow : Window
     {
         public MainWindow()
